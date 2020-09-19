@@ -9421,3 +9421,15 @@ Content/UltimateTouchComponents/Showcase/Mannequin/Textures/UE4Man_Logo_N.uasset
 Content/UltimateTouchComponents/Showcase/Maps/ExampleScene.umap
 Content/UltimateTouchComponents/Showcase/Maps/V3FeatureExamplesScene.umap
 .DS_Store
+Content/HelicopterTemplate/Level/HelicopterGameMode.uasset
+Content/HelicopterTemplate/Blueprints/BP_Helicopter_Wheeled.uasset
+Content/HelicopterTemplate/Blueprints/BP_Helicopter.uasset
+Config/DefaultEngine.ini
+Config/DefaultEditor.ini
+Config/DefaultCrypto.ini
+Content/HelicopterTemplate/Level/HelicopterGameMode.uasset
+Content/HelicopterTemplate/Blueprints/BP_Helicopter_Wheeled.uasset
+Content/HelicopterTemplate/Blueprints/BP_Helicopter.uasset
+Content/HelicopterTemplate/Blueprints/BP_Helicopter.uasset
+Content/HelicopterTemplate/Blueprints/BP_Helicopter_Wheeled.uasset
+Content/HelicopterTemplate/Level/HelicopterGameMode.uasset
